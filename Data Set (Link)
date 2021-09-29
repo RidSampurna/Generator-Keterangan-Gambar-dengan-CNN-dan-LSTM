@@ -1,0 +1,5 @@
+Image Data Set (Flicker8k_Dataset)
+https://github-releases.githubusercontent.com/124585957/47f52b80-3501-11e9-8f49-4515a2a3339b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210929T010613Z&X-Amz-Expires=300&X-Amz-Signature=4d0d919e390e5e037dabd896baa2bc8ea59014b7ea570ed46d1c0c1319ece06a&X-Amz-SignedHeaders=host&actor_id=91517130&key_id=0&repo_id=124585957&response-content-disposition=attachment%3B%20filename%3DFlickr8k_Dataset.zip&response-content-type=application%2Foctet-stream
+
+Text Data Set (Flicker8k_text)
+https://github-releases.githubusercontent.com/124585957/47f52b80-3501-11e9-8d2e-dd69a21a4362?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210929T010721Z&X-Amz-Expires=300&X-Amz-Signature=0ae35ad1effc0746a321de2d1fd98e1a85a47697ea1cf50d59c349a92db12ee8&X-Amz-SignedHeaders=host&actor_id=91517130&key_id=0&repo_id=124585957&response-content-disposition=attachment%3B%20filename%3DFlickr8k_text.zip&response-content-type=application%2Foctet-stream
